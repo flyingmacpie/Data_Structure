@@ -3,7 +3,7 @@
 using namespace std;
 
 class PQueue
-{ //Á¤·ÄµÈ Å¥, insertion sort ±¸ÇöÀ» À§ÇÑ PQ±¸¼º 
+{ ì•ˆí˜„ì§„ ã…„ 
 public:
 	vector<int> v;
 
